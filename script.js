@@ -1,6 +1,8 @@
 //your JS code here. If required.
 const student = {
-	name: "Smruti"
+	name: "John",
+	age: 30,
+	city: "New York"
 }
 Objects.prototype.getKeys = function() {
 	return Ojects.keys(this);
